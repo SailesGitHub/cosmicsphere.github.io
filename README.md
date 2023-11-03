@@ -1,3 +1,5 @@
+click "raw" for more info bruh | нажми на "raw" для большей инфы броу
+
 ENG:
 1. Download the repository.
 2. Go to the command line (cmd), specify the path to the repository and write: "npm i three gsap" (you will need Node installed.js)
