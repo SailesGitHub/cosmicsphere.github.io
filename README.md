@@ -1,4 +1,5 @@
-![image](https://github.com/SailesGitHub/vite-project/assets/149830336/c580e0c0-4326-4846-bfb5-c8952b416194)
+![image](https://github.com/SailesGitHub/vite-project/assets/149830336/1e721749-d946-4744-b44b-9ad47f84e86b)
+
 ENG:
 
 0. Rename repository to "vite-project".
