@@ -1,11 +1,13 @@
-![image](https://github.com/SailesGitHub/vite-project/assets/149830336/72146a44-6b19-4a9d-afd5-fd9a4892979d)
+![image](https://github.com/SailesGitHub/vite-project/assets/149830336/c580e0c0-4326-4846-bfb5-c8952b416194)
 ENG:
+
 0. Rename repository to "vite-project".
 1. Download the repository.
 2. Go to the command line (cmd), specify the path to the repository and write: "npm i three gsap" (you will need Node installed.js)
 3. Through administrator rights, re-open cmd, write the path to the repository, and write: "npm run dev". There you will be given a local IP of the site on which everything will be.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RU:
+
 0. Переиминуй репозиторий на "vite-project".
 1. Скачайте репозиторий.
 2. Зайдите в командную строку (cmd) , укажите путь к репозиторию и пропишите: "npm i three gsap" (у вас должен будет установлен Node.js)
